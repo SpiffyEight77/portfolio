@@ -1,5 +1,7 @@
 [![Hosted on Vercel](https://badgen.net/badge/Vercel/SpiffyEight77's%20Portfolio/:color?icon=vercel)](https://SpiffyEight77.com)
-# Portfolio
+
+![image](https://user-images.githubusercontent.com/23716846/99880111-50394800-2c4c-11eb-82a5-99c563980e79.png)
+
 
 > 🐸 My personal home page, built and designed from scratch.
 
