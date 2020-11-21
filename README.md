@@ -1,4 +1,25 @@
-# portfolio
+[![Hosted on Vercel](https://badgen.net/badge/Vercel/SpiffyEight77's%20Portfolio/:color?icon=vercel)](https://SpiffyEight77.com)
+# Portfolio
+
+> 🐸 My personal home page, built and designed from scratch.
+
+## One-click deployment
+
+Deploy your own instance of my portfolio to Vercel:
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=SpiffyEight77%2Fportfolio)
+
+## Copyrights
+
+Please add proper acknowledgements if you were to deploy this for your own portfolio.
+
+如果你希望用我的模板部署自己的 Portfolio，还请加上设计来源。比如：
+
+[![copyright](https://img.shields.io/badge/Designed%20by-github.com/SpiffyEight77-black?logo=github&style=for-the-badge&labelColor=24292e)](https://github.com/SpiffyEight77/portfolio)
+
+```html
+<a href="https://github.com/SpiffyEight77/portfolio"><img src="https://img.shields.io/badge/Designed%20by-github.com/SpiffyEight77-black?logo=github&style=for-the-badge&labelColor=24292e" alt="copyright"/></a>
+```
 
 ## Project setup
 ```
@@ -25,5 +46,10 @@ yarn test:unit
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+**🐸 Portfolio** ©SpiffyEight77. Released under the [MIT License](./LICENSE).
+
+Authored and maintained SpiffyEight77.
+
+[@Portfolio](https://SpiffyEight77.com) · [@GitHub](https://github.com/SpiffyEight77)
