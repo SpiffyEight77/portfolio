@@ -86,4 +86,81 @@ export default {
     margin: 0 6px;
   }
 }
+
+/* Pixel 2 XL */
+@media screen and (min-width: 823px) and (max-width: 823px) and (orientation: landscape) {
+  .footer {
+    width: 90%;
+    top: 480px;
+  }
+  .footer a {
+    margin: 0 6px;
+  }
+}
+
+/* iPhone X */
+@media screen and (min-width: 800px) and (max-width: 812px) and (orientation: landscape) {
+  .footer {
+    width: 90%;
+    top: 480px;
+  }
+  .footer a {
+    margin: 0 6px;
+  }
+}
+
+/* iPhone 6/7/8 Plus */
+@media screen and (min-width: 736px) and (max-width: 736px) and (orientation: landscape) {
+  .footer {
+    width: 90%;
+    top: 480px;
+  }
+  .footer a {
+    margin: 0 6px;
+  }
+}
+
+/* Pixel 2 */
+@media screen and (min-width: 731px) and (max-width: 731px) and (orientation: landscape) {
+  .footer {
+    width: 90%;
+    top: 480px;
+  }
+  .footer a {
+    margin: 0 6px;
+  }
+}
+
+/* iPhone 6/7/8 */
+@media screen and (min-width: 667px) and (max-width: 667px) and (orientation: landscape) {
+  .footer {
+    width: 90%;
+    top: 480px;
+  }
+  .footer a {
+    margin: 0 6px;
+  }
+}
+
+/* Galaxy S5 / Moto G4 */
+@media screen and (min-width: 640px) and (max-width: 640px) and (orientation: landscape) {
+  .footer {
+    width: 90%;
+    top: 450px;
+  }
+  .footer a {
+    margin: 0 6px;
+  }
+}
+
+/* iPhone 5/SE */
+@media screen and (min-width: 568px) and (max-width: 568px) and (orientation: landscape) {
+  .footer {
+    width: 90%;
+    top: 400px;
+  }
+  .footer a {
+    margin: 0 6px;
+  }
+}
 </style>

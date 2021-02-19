@@ -60,18 +60,6 @@
   margin-left: 5px;
 }
 
-@media screen and (min-width: 1600px) {
-  .container {
-    width: 1000px;
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .container {
-    width: 95%;
-  }
-}
-
 #name-container {
   display: flex;
   flex-direction: column;
@@ -88,5 +76,143 @@
 
 h1 {
   font-size: 28px;
+}
+
+@media screen and (min-width: 1600px) {
+  .container {
+    width: 1000px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .container {
+    width: 95%;
+  }
+}
+
+/* Pixel 2 XL */
+@media screen and (min-width: 823px) and (max-width: 823px) and (orientation: landscape) {
+  .container {
+    width: 90%;
+    height: 90%;
+  }
+  #avatar {
+    width: 120px;
+    height: 120px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+}
+
+/* iPhone X */
+@media screen and (min-width: 812px) and (max-width: 812px) and (orientation: landscape) {
+  .container {
+    width: 90%;
+    height: 90%;
+  }
+  #avatar {
+    width: 120px;
+    height: 120px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+}
+
+/* iPhone 6/7/8 Plus */
+@media screen and (min-width: 736px) and (max-width: 736px) and (orientation: landscape) {
+  .container {
+    width: 90%;
+    height: 90%;
+  }
+  #avatar {
+    width: 120px;
+    height: 120px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+}
+
+/* Pixel 2 */
+@media screen and (min-width: 731px) and (max-width: 731px) and (orientation: landscape) {
+  .container {
+    width: 90%;
+    height: 90%;
+  }
+  #avatar {
+    width: 120px;
+    height: 120px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+}
+
+/* iPhone 6/7/8 Plus */
+@media screen and (min-width: 667px) and (max-width: 667px) and (orientation: landscape) {
+  .container {
+    width: 90%;
+    height: 90%;
+  }
+  #avatar {
+    width: 120px;
+    height: 120px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+}
+
+/* Galaxy S5 / Moto G4 */
+@media screen and (min-width: 640px) and (max-width: 640px) and (orientation: landscape) {
+  .container {
+    width: 90%;
+    height: 90%;
+  }
+  #avatar {
+    width: 110px;
+    height: 110px;
+  }
+  h1 {
+    font-size: 15px;
+  }
+  h3 {
+    font-size: 10px;
+  }
+}
+
+/* iPhone 5/SE */
+@media screen and (min-width: 568px) and (max-width: 568px) and (orientation: landscape) {
+  .container {
+    width: 90%;
+    height: 90%;
+  }
+  #avatar {
+    width: 110px;
+    height: 110px;
+  }
+  h1 {
+    font-size: 15px;
+  }
+  h3 {
+    font-size: 10px;
+  }
 }
 </style>
