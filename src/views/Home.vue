@@ -3,7 +3,7 @@
     <div id="name-container">
       <img id="avatar" src="./../assets/images/avatar.png" alt="avatar" />
       <h1>SpiffyEight77</h1>
-      <h3>👋🏻 Hi there, I'm a web developer</h3>
+      <h3>👋🏻 Hi there, I'm a devops.</h3>
     </div>
     <div class="title-desc-container">
       <a href="https://github.com/SpiffyEight77" target="_blank">
